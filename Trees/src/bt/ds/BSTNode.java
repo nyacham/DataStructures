@@ -1,4 +1,4 @@
-package nik.ds;
+package bt.ds;
 
 public class BSTNode {
 
