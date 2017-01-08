@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package bt.ds;
+=======
+package nik.ds;
+>>>>>>> branch 'master' of https://github.com/nyacham/DataStructures.git
 
 public class BSTNode {
 
