@@ -1,5 +1,6 @@
 package bt.ds;
 
+
 public class BSTNode {
 
 	private int data;
