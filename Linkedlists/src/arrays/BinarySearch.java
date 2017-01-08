@@ -4,6 +4,10 @@ package arrays;
  * @author NIKHILESH
  *
  */
+/**
+ * @author YACHAM
+ *
+ */
 public class BinarySearch {
 
 	public static void main(String[] args) {
