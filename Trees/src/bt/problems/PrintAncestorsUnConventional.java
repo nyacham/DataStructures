@@ -1,4 +1,4 @@
-package bt.trversal;
+package bt.problems;
 
 import bt.ds.BSTNode;
 

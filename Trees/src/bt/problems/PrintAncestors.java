@@ -1,4 +1,4 @@
-package bt.trversal;
+package bt.problems;
 
 import java.util.Stack;
 

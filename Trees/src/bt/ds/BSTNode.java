@@ -63,4 +63,11 @@ public class BSTNode {
 		three.setRight(seven);
 		return one;
 	}
+
+	@Override
+	public String toString() {
+		return "BSTNode [data=" + data + ", left=" + left + ", right=" + right + "]";
+	}
+	
+	
 }
