@@ -7,6 +7,7 @@ import bt.ds.BSTNode;
 /**
  * @author Nikhilesh Yacham
  *
+ *	An Algorithm to print all the ancestors of a given node
  */
 public class PrintAncestors {
 
